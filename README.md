@@ -1,6 +1,6 @@
 
 # TempTidy
-clears the temporay directories on windows ( saves storage and improves perfomance )
+TempTidy removes temporary files from your Windows desktop, optimizing system performance and freeing up disk space.
 
 # Screenshots
 
